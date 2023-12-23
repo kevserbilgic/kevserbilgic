@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevser</h1>
-<h3 align="center">A student who learn that she can learn everything if she want after her twenties</h3>
+<h3 align="center">A student who learn that she can learn everything if she want after her twenties + edit: im trying to be indie dev by not having a computer 😮‍💨 </h3>
 
 - 🌱 I’m currently learning **unity**
 
